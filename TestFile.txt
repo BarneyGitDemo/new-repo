@@ -1,1 +1,2 @@
 This is a test file for Source Tree.
+A new line.
